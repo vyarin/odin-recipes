@@ -10,6 +10,11 @@ body {
     max-width: 800px;
 }
 
+.recipe-list, .recipe-description, .recipe-ingredients, .recipe-steps {
+    font-family: Lato, Arial, Helvetica, sans-serif;
+}
+
 .recipe-heading {
+    font-size: 20px;
     font-family: Montserrat, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
