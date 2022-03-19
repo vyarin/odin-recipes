@@ -3,6 +3,13 @@
 body {
     background-color: bisque;
 }
+
+.recipe-information, .recipe-links, .recipe-heading, .recipe-image, .recipe-description, .recipe-ingredients, .recipe-steps {
+    display: block;
+    margin: auto;
+    max-width: 800px;
+}
+
 .recipe-heading {
     font-family: Montserrat, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
